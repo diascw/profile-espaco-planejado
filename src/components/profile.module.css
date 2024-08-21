@@ -1,0 +1,23 @@
+.profile {
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.profileImg {
+    width: 112px;
+    padding: 2px 0;
+}
+
+.profile h2 {
+    font-weight: 600;
+    line-height: 24px;
+    font-size: 24px;
+    padding: 2px 0;
+}
+
+.profile h3 {
+    font-weight: 600;
+    line-height: 40px;
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+}

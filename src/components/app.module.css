@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(20, 20, 20);
+
+}
+
+body *,
+ul {
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+.container {
+    width: 300px;
+    background-color: #545454;
+    margin: 20px auto 5px;
+    padding: 0 24px;
+    border-radius: 8px;
+    
+}
+
+.profile {
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.profile img {
+    width: 112px;
+    padding: 2px 0;
+}
+
+.profile h2 {
+    font-weight: 600;
+    line-height: 24px;
+    font-size: 24px;
+    padding: 2px 0;
+    font-family: poppins;
+}
+
+
+.linkList {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 24px 0;
+}
+
+.linkList li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 20px;
+    background: rgba(59, 57, 57, 0.384);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.2s;
+}
+
+.linkList li a:hover {
+    background: rgba(0, 0, 0, 0.3);
+    border: 1.5px solid black;
+}
+
+.footer {
+    padding: 24px 0;
+    text-align: center;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: poppins;
+}
