@@ -1,8 +1,22 @@
-# React + Vite
+# Profile Espaço Planejado
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao repositório do projeto **Profile Espaço Planejado**! Esta aplicação é projetada para gerenciar e disponibilizar links úteis para uma loja de móveis planejados. Facilita o acesso a recursos importantes, documentos e informações relevantes para a operação e gestão da loja.
 
-Currently, two official plugins are available:
+## 🚀 Começando
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Estas instruções irão guiá-lo na configuração do projeto para que você possa começar a usá-lo em seu ambiente local.
+
+### 📋 Pré-requisitos
+
+Antes de começar, verifique se você tem os seguintes pré-requisitos instalados:
+
+- [Node.js](https://nodejs.org/) (versão 14 ou superior)
+- [NPM](https://www.npmjs.com/) (gerenciador de pacotes do Node.js)
+- [Git](https://git-scm.com/) (para clonar o repositório)
+
+### 🔧 Instalando
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/diascw/profile-espaco-planejado.git
